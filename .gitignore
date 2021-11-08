@@ -8,6 +8,8 @@ bin-release/
 .settings/
 
 # Executables
+*.ipynb_checkpoints
+*.DS_Store
 *.swf
 *.air
 *.ipa
